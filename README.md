@@ -4,6 +4,6 @@
   
 - 👨‍💻 I wanna be pentester
   
-- 📫 You can reach me on discord : informatiquement 
+- 📫 You can reach me on discord : https://discord.com/users/1036382622202482728
 
 - 💻 my portfolio : https://eff4ct.github.io
